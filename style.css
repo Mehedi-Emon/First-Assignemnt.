@@ -144,3 +144,18 @@ a {
 
 
 }
+
+.contact {
+    text-align: center;
+}
+
+.last {
+    text-align: center;
+}
+
+.end {
+    text-align: center;
+    background-color: rgb(21, 10, 31);
+    font-style: italic;
+    color: blanchedalmond;
+}
