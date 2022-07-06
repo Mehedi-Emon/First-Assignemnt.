@@ -1,0 +1,44 @@
+body {
+    font-family: 'Jost', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+a {
+    background-color: yellow;
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+
+}
+
+.image {
+    position: relative;
+    text-align: center;
+}
+
+.header {
+    position: absolute;
+    bottom: 70%;
+    color: yellow;
+    font-size: 30px;
+
+}
+
+.some-text {
+    position: absolute;
+    bottom: 60%;
+    color: white;
+    font-size: 17px;
+}
+
+.link-button {
+    position: absolute;
+    bottom: 55%;
+    text-align: end;
+    padding-left: 20%;
+}
