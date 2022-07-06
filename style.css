@@ -6,13 +6,14 @@ body {
 }
 
 a {
-    background-color: yellow;
+    background-color: rgb(245, 95, 95);
     text-decoration: none;
-    padding-left: 15px;
+    padding-left: 20px;
     padding-right: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     color: white;
+    border-radius: 5px;
 
 }
 
@@ -41,4 +42,50 @@ a {
     bottom: 55%;
     text-align: end;
     padding-left: 20%;
+}
+
+.need {
+
+    font-size: 20px;
+    margin-left: 40%;
+    margin-right: 35%;
+    margin-top: 10%;
+
+}
+
+.specifications {
+    text-align: center;
+    color: rgba(83, 80, 80, 0.865);
+
+}
+
+.box {
+    width: 5%;
+    box-shadow: 10px 10px 15px gray;
+    padding: 3%;
+    font-size: 20px;
+
+
+}
+
+.middle {
+    display: flex;
+    width: 100%;
+    margin-left: 22%;
+    margin-right: 7%;
+
+
+}
+
+.taka {
+    text-align: center;
+    margin-top: 6%;
+    margin-left: 22%;
+    margin-right: 23%;
+
+}
+
+.donate {
+    text-align: center;
+    margin-top: 2%;
 }
