@@ -119,3 +119,28 @@ a {
     display: flex;
 
 }
+
+.need-need {
+    text-align: left;
+    text-align: justify;
+    margin-right: 40px;
+
+}
+
+.depend-on {
+    display: flex;
+    margin: 35px;
+
+}
+
+.depends {
+    display: flex;
+    margin: 35px;
+}
+
+.need-all {
+    text-align: right;
+    margin: 35px;
+
+
+}
