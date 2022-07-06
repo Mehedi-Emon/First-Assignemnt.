@@ -89,3 +89,33 @@ a {
     text-align: center;
     margin-top: 2%;
 }
+
+.plans {
+    background-color: rgba(244, 243, 188, 0.362);
+    margin-bottom: 5%;
+    margin-left: 2%;
+
+    padding: 20px 10px 10px 5px;
+
+}
+
+.plans-two {
+    background-color: rgb(243, 246, 250);
+    margin-bottom: 5%;
+    margin-left: 2%;
+    marg padding: 20px 10px 10px 10px;
+}
+
+.plans-three {
+    background-color: rgba(232, 226, 217, 0.404);
+    margin-bottom: 5%;
+    margin-left: 2%;
+    margin-right: 0;
+
+    padding: 20px 10px 10px 10px;
+}
+
+.display {
+    display: flex;
+
+}
